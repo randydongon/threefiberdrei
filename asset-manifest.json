@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/threefiberdrei/static/css/main.c0794a18.chunk.css",
+    "main.js": "/threefiberdrei/static/js/main.bc768606.chunk.js",
+    "main.js.map": "/threefiberdrei/static/js/main.bc768606.chunk.js.map",
+    "runtime-main.js": "/threefiberdrei/static/js/runtime-main.e358a063.js",
+    "runtime-main.js.map": "/threefiberdrei/static/js/runtime-main.e358a063.js.map",
+    "static/js/2.99d63aeb.chunk.js": "/threefiberdrei/static/js/2.99d63aeb.chunk.js",
+    "static/js/2.99d63aeb.chunk.js.map": "/threefiberdrei/static/js/2.99d63aeb.chunk.js.map",
+    "index.html": "/threefiberdrei/index.html",
+    "precache-manifest.d3e55164901803aec1b147ae896ced15.js": "/threefiberdrei/precache-manifest.d3e55164901803aec1b147ae896ced15.js",
+    "service-worker.js": "/threefiberdrei/service-worker.js",
+    "static/css/main.c0794a18.chunk.css.map": "/threefiberdrei/static/css/main.c0794a18.chunk.css.map",
+    "static/js/2.99d63aeb.chunk.js.LICENSE.txt": "/threefiberdrei/static/js/2.99d63aeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e358a063.js",
+    "static/js/2.99d63aeb.chunk.js",
+    "static/css/main.c0794a18.chunk.css",
+    "static/js/main.bc768606.chunk.js"
+  ]
+}
