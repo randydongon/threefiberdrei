@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/threefiberdrei/static/css/main.c0794a18.chunk.css",
-    "main.js": "/threefiberdrei/static/js/main.bc768606.chunk.js",
-    "main.js.map": "/threefiberdrei/static/js/main.bc768606.chunk.js.map",
+    "main.js": "/threefiberdrei/static/js/main.00a785fe.chunk.js",
+    "main.js.map": "/threefiberdrei/static/js/main.00a785fe.chunk.js.map",
     "runtime-main.js": "/threefiberdrei/static/js/runtime-main.e358a063.js",
     "runtime-main.js.map": "/threefiberdrei/static/js/runtime-main.e358a063.js.map",
-    "static/js/2.99d63aeb.chunk.js": "/threefiberdrei/static/js/2.99d63aeb.chunk.js",
-    "static/js/2.99d63aeb.chunk.js.map": "/threefiberdrei/static/js/2.99d63aeb.chunk.js.map",
+    "static/js/2.88bdefa4.chunk.js": "/threefiberdrei/static/js/2.88bdefa4.chunk.js",
+    "static/js/2.88bdefa4.chunk.js.map": "/threefiberdrei/static/js/2.88bdefa4.chunk.js.map",
     "index.html": "/threefiberdrei/index.html",
-    "precache-manifest.d3e55164901803aec1b147ae896ced15.js": "/threefiberdrei/precache-manifest.d3e55164901803aec1b147ae896ced15.js",
+    "precache-manifest.fab27dfe7a097d2cae9e6f3e9cf7cf6a.js": "/threefiberdrei/precache-manifest.fab27dfe7a097d2cae9e6f3e9cf7cf6a.js",
     "service-worker.js": "/threefiberdrei/service-worker.js",
     "static/css/main.c0794a18.chunk.css.map": "/threefiberdrei/static/css/main.c0794a18.chunk.css.map",
-    "static/js/2.99d63aeb.chunk.js.LICENSE.txt": "/threefiberdrei/static/js/2.99d63aeb.chunk.js.LICENSE.txt"
+    "static/js/2.88bdefa4.chunk.js.LICENSE.txt": "/threefiberdrei/static/js/2.88bdefa4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e358a063.js",
-    "static/js/2.99d63aeb.chunk.js",
+    "static/js/2.88bdefa4.chunk.js",
     "static/css/main.c0794a18.chunk.css",
-    "static/js/main.bc768606.chunk.js"
+    "static/js/main.00a785fe.chunk.js"
   ]
 }
